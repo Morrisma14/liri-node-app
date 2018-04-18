@@ -7,7 +7,7 @@ LIRI is a command line node app that takes in parameters and returns data based 
 
   * `movie-this`
 
-## How To Run The App
+## How To Use Liri Bot
 
 - Clone https://github.com/Morrisma14/liri-node-app
 - Run command 'npm install' in Terminal or GitBash
