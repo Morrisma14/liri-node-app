@@ -41,7 +41,7 @@ LIRI is a command line node app that takes in parameters and returns data based 
     * Rotten Tomatoes Rating.
     * Rotten Tomatoes URL.
 
-  * Or if no movie is passed through, it will default to "Mr. Nobody"
+  * If no movie is passed through, it will default to "Mr. Nobody"
 
 ## Tech used
 - Node.js
