@@ -27,9 +27,6 @@ LIRI is a command line node app that takes in parameters and returns data based 
     * A preview link of the song from Spotify
     * The album that the song is from
 
-  * Or if no song is passed through, it will default to
-    *"Florescent Adolescent" by Arctic Monkeys
-
 3. `node javascript/liri.js movie-this 'movie name'`
 
   * Shows the following information in terminal/bash.
